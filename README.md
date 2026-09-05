@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohitha Shruthi
 
-<!--
-**Mohitha918/Mohitha918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 I'm a Bioinformatics student interested in the intersection of biology, programming, and computational biology.
 
-Here are some ideas to get you started:
+## 💻 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- Git & GitHub
+- Bioinformatics
+- Computational Biology
+
+## 🧬 My Projects
+
+### DNA Sequence Analyzer
+A Python-based tool for analyzing DNA sequences.
+
+Features:
+- DNA sequence validation
+- Base counting
+- GC content calculation
+- Reverse complement calculation
+
+🔗 Check out the project in my pinned repositories!
+
+## 🌱 Currently Learning
+
+I'm currently building my programming skills and exploring how computational methods can be applied to biological problems.
+
+## 🎯 My Goal
+
+To build strong skills in programming and bioinformatics through projects, open-source contributions, and continuous learning.
